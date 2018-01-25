@@ -1,3 +1,3 @@
 ## Applied Text Mining in Python
 
-# Coursera - University of Michigan
+### Coursera - University of Michigan
