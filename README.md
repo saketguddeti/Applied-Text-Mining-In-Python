@@ -1,1 +1,1 @@
-# coursera-applied_text_mining_in_python
+# Applied Text Mining in Python in Coursera
